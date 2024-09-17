@@ -386,6 +386,12 @@ Instructions :
 | 353 | **Lauren Harris** | USA| Government Travel Agent| [LinkedIn](https://www.linkedin.com/in/lauren-harris90/)| [Github](https://github.com/Lauren2590) | [Twitter](https://twitter.com/LaurenSH23)
 | 354 | **Natalia Loginova** | Russia | QA Engineer | [GitHub](https://github.com/Arrivera) - [LinkedIn](www.linkedin.com/in/alisanatalia)|
 | 355 | **shyoutarou** | Brazil | Student | [Github](https://github.com/shyoutarou) |
+| 356 | **Aditya Mehta** | India | Mechanical Engineering Student | [Github](https://github.com/adimehta03) - [LinkedIn](https://www.linkedin.com/in/aditya-mehta-414b67195/) |
+| 356 | **Manoj Sadanala** | India | Electrical And Communication Engineering Student | [Github](https://github.com/DarkHunter1749) - [LinkedIn](https://www.linkedin.com/in/manoj-parasuram-sadhanala-29042004/) |
+| 357 | **Lindsay Shelton** | USA | Application Programmer | [Github](https://github.com/lsheltonSTO) - [LinkedIn](https://www.linkedin.com/in/lindsaytshelton/) |
+| 358 | **Aleksander Gomez** | USA | Computer Science Student | [Github](https://github.com/CoffeeTulip) - [LinkedIn](https://www.linkedin.com/in/aleksander-gomez-981aaa249/) |
+| 359 | **Ben Pasquariello** | USA | Education Marketing | [Github](https://github.com/Bintendo64)
+
 
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
